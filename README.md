@@ -1,4 +1,4 @@
-#Mortal-kombat - учебный проект Glo Academy
+# Mortal-kombat - учебный проект Glo Academy
 ## Выполнила Василиса Огнева
 ### Технологии: 
   - HTML
